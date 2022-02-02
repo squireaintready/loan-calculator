@@ -1,6 +1,7 @@
 import React from "react";
 import styled from "styled-components";
-import figlogo from "../media/fig-logo.png";
+import homeRising from "../media/loanHouse.jpeg";
+// import homeRising from "../media/home_rise.jpeg";
 
 // MATERIAL UI COMPONENTS
 import SearchIcon from "@material-ui/icons/Search";
@@ -18,7 +19,7 @@ function Header() {
       >
         <Grid item xs={2} sm={2} md={4} lg={4} xl={4}>
           <LeftContainer>
-            <img src={figlogo} alt="" />
+            <img src={homeRising} alt="" />
           </LeftContainer>
         </Grid>
 
@@ -66,9 +67,10 @@ const HeaderContainer = styled.div`
 
 // LOGO
 const LeftContainer = styled.div`
-  /* Figtech logo */
   > img {
-    max-width: 2.5rem;
+    max-width: 5.5rem;
+    border-radius: 4px;
+    opacity: .9;
   }
 `;
 
