@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.7cd9eb9f.chunk.css",
-    "main.js": "/static/js/main.98009046.chunk.js",
-    "main.js.map": "/static/js/main.98009046.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.4abf554c.js",
-    "runtime-main.js.map": "/static/js/runtime-main.4abf554c.js.map",
-    "static/js/2.db0a48f4.chunk.js": "/static/js/2.db0a48f4.chunk.js",
-    "static/js/2.db0a48f4.chunk.js.map": "/static/js/2.db0a48f4.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.7cd9eb9f.chunk.css.map": "/static/css/main.7cd9eb9f.chunk.css.map",
-    "static/js/2.db0a48f4.chunk.js.LICENSE.txt": "/static/js/2.db0a48f4.chunk.js.LICENSE.txt",
-    "static/media/loanHouse.cd23aecf.jpeg": "/static/media/loanHouse.cd23aecf.jpeg"
+    "main.css": "/loan-calculator/static/css/main.7cd9eb9f.chunk.css",
+    "main.js": "/loan-calculator/static/js/main.f2a5e8a1.chunk.js",
+    "main.js.map": "/loan-calculator/static/js/main.f2a5e8a1.chunk.js.map",
+    "runtime-main.js": "/loan-calculator/static/js/runtime-main.5c650908.js",
+    "runtime-main.js.map": "/loan-calculator/static/js/runtime-main.5c650908.js.map",
+    "static/js/2.265333bd.chunk.js": "/loan-calculator/static/js/2.265333bd.chunk.js",
+    "static/js/2.265333bd.chunk.js.map": "/loan-calculator/static/js/2.265333bd.chunk.js.map",
+    "index.html": "/loan-calculator/index.html",
+    "static/css/main.7cd9eb9f.chunk.css.map": "/loan-calculator/static/css/main.7cd9eb9f.chunk.css.map",
+    "static/js/2.265333bd.chunk.js.LICENSE.txt": "/loan-calculator/static/js/2.265333bd.chunk.js.LICENSE.txt",
+    "static/media/loanHouse.cd23aecf.jpeg": "/loan-calculator/static/media/loanHouse.cd23aecf.jpeg"
   },
   "entrypoints": [
-    "static/js/runtime-main.4abf554c.js",
-    "static/js/2.db0a48f4.chunk.js",
+    "static/js/runtime-main.5c650908.js",
+    "static/js/2.265333bd.chunk.js",
     "static/css/main.7cd9eb9f.chunk.css",
-    "static/js/main.98009046.chunk.js"
+    "static/js/main.f2a5e8a1.chunk.js"
   ]
 }
